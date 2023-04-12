@@ -15,7 +15,6 @@ COPY dyk_club/ /dyk_club/
 COPY jordan.onnx /
 COPY trained_knn_model.clf /
 # 변경된 내용을 포함한 draw.py 파일을 추가
-#COPY /home/zero/miniforge3/envs/zero/lib/python3.9/site-packages/cvu /usr/local/lib/python3.9/site-packages/cvu
 COPY cvu /usr/local/lib/python3.9/site-packages/cvu
 COPY .env /
 
