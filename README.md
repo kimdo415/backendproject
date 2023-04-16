@@ -6,4 +6,4 @@
 
 주소는 아래에 있습니다.
 
-https://www.dozberrypi.shop:3000
+https://www.dozberrypi.shop:8989/docs
