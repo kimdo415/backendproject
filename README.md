@@ -6,4 +6,4 @@
 
 주소는 아래에 있습니다.
 
-http://www.dozberrypi.shop:3000
+https://www.dozberrypi.shop:3000
